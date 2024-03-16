@@ -1,2 +1,2 @@
-# Lab_DataCompression_Base
-Template repo with Code folder for Lab_DataCompression assignment.
+# Lab_DataCompression
+Data compression program in RARS
